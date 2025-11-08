@@ -3,3 +3,8 @@
 # 1. Take no parameters
 # 2. Return any floating-point number
 # Example return values: 1.5, -2.4, 0.0, etc.
+
+def return_float():
+    print(float(input("Butun bo'lmagan son kiriting: ")))
+  
+return_float()
